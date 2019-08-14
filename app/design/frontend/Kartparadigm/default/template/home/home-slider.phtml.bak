@@ -253,16 +253,7 @@ text-decoration: none;
         
          
     </div>
-    <div class="item">
-        <img src="<?php echo $imgUrl4 ?>" alt="Image4" />
-        
-          
-    </div>
-     
-      <div class="item">
-       <iframe width="100%" height="<?php echo $sliderheight; ?>" src="https://www.youtube.com/embed/9qduIPPRdCc?autoplay=1" frameborder="0" allowfullscreen></iframe>
-          
-    </div>
+   
    
     </div>
 <div class="customNavigation" style="display: block;">

@@ -284,7 +284,7 @@ display: block;
     		      <li id="product_tabs_<?php echo $alias
     		      ?>_tabbed"><a href="#<?php echo $alias ;?>">
     	<?php if ($alias=='description'):?>
-    		<h2 style="text-transform: capitalize;"><?php echo $alias; ?></h2>
+    		<h2 style="text-transform:capitalise"><?php echo $alias; ?></h2>
     		 <?php else:?>
     		 	<h2>Additional Information</h2>
     		 <?php endif;?>

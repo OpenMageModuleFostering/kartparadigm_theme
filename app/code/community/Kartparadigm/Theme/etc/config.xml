@@ -69,9 +69,12 @@
 		<theme>
 			<theme_config>
 				<font>Arial</font>
-<color>FFFFFF</color>
+<color>FE5252</color>
 			</theme_config>
-
+<theme_config_header>
+<toolbarcolor>F9F9F9</toolbarcolor>
+<headerbgcolor>FFFFFE</headerbgcolor>
+</theme_config_header>
 		</theme>
 	</default>
     
