@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Elegance Responsive Theme from Kart Paradigm For Your Magento Store
