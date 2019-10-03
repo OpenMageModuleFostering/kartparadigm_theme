@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Kartparadigm_Theme",
+    "name": "OpenMageModuleFostering\/Kartparadigm_Theme",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Elegance Responsive Theme from Kart Paradigm For Your Magento Store",
     "authors": [
-    {
-        "name": "Kartparadigm",
-        "email": "kartparadigm@gmail.com"
-    }
-],
+        {
+            "name": "Kartparadigm",
+            "email": "kartparadigm@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
